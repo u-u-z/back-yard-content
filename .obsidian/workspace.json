@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "9e55410162b3bb27",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7244e3d694b5c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9c2472fef38600d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/📖 How Linux Works.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e25d489e9fb558b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/🏠 ABOUT THIS SITE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da15120399264621",
+    "type": "split",
+    "children": [
+      {
+        "id": "69895cc3f9b57201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "686c6304699692cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82e40c8edc1e7270",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efd6b0bb8ee06c57",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f1371012907d566c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aec42710d7aa92d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7e59ff0bad35104",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/🏠 ABOUT THIS SITE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21091edd2865448e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/🏠 ABOUT THIS SITE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "158483ff46215551",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbcc42aac080d850",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/🏠 ABOUT THIS SITE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3e25d489e9fb558b",
+  "lastOpenFiles": [
+    "_index.md",
+    "blog/📖 How Linux Works.md",
+    "sticker.webm.md",
+    "👬 FRIENDS.md",
+    "blog/🏠 ABOUT THIS SITE.md",
+    "daily/2023-01-08.md",
+    "blog/📒 BLOGS.md",
+    "blog/未命名.md",
+    "a.md",
+    "daily.md"
+  ]
+}
