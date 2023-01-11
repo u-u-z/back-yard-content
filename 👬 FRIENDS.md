@@ -2,10 +2,10 @@
 date created: 2023-01-08
 date modified: 2023-01-08
 tags: [base,friends]
-title: Remi IO's friends.
+title: My friends.
 ---
 
-## SOME COOL GUYS
+## COOL GUYS
 >  📊 In no particular order
-- **XYenon** https://blog.xyenon.bid
-- 
+- [**XYenon**](https://blog.xyenon.bid) 
+- [**🍋  LemonHX**](http://lemonhx.moe) 
