@@ -1,1 +1,1 @@
-[[blog/📖 How Linux Works]] - [Satoru Takeuchi(武内 覚)](https://twitter.com/satoru_takeuchi)'s book.
+[[📖 How Linux Works]] - [Satoru Takeuchi(武内 覚)](https://twitter.com/satoru_takeuchi)'s book.

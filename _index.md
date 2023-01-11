@@ -1,14 +1,14 @@
 ---
 comments: true
+date created: 2023-01-08
+date modified: 2023-01-08
 id: home
 layout: page
 dg-home: true
 dg-publish: true
 permalink: /
-date created: 2023-01-08
-date modified: 2023-01-08
 tags: [base]
-title: "Remi IO"
+title: Remi IO
 ---
 
 ## WHAT'S THIS
@@ -18,7 +18,7 @@ title: "Remi IO"
 
 ## CATALOGS
 -  [[👬 FRIENDS]] - my cool guys. my second self.
-- [[blog/📒 BLOGS]] - my blogs, articles about tech.
+- [[📒 BLOGS]] - my blogs, articles about tech.
 ---
-> 🏠 If u r interested in how this site is built ,plz see [[blog/🏠 ABOUT THIS SITE]]
+> 🏠 If u r interested in how this site is built ,plz see [[🏠 ABOUT THIS SITE]]
 

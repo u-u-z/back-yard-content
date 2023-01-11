@@ -1,5 +1,5 @@
 {
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "newFileLocation": "root",
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true
