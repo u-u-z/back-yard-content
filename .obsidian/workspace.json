@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/📒 BLOGS.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/📒 BLOGS.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/📒 BLOGS.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/📒 BLOGS.md"
+                "file": "_index.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "b9c2472fef38600d",
   "lastOpenFiles": [
-    "blog/🏠 ABOUT THIS SITE.md",
-    "blog/📒 BLOGS.md",
-    "blog/📖 How Linux Works.md",
-    "_index.md",
-    "sticker.webm.md",
     "👬 FRIENDS.md",
+    "_index.md",
+    "blog/📒 BLOGS.md",
+    "blog/🏠 ABOUT THIS SITE.md",
+    "blog/📖 How Linux Works.md",
+    "sticker.webm.md",
     "daily/2023-01-08.md",
     "blog/未命名.md",
     "a.md",

@@ -1,4 +1,10 @@
 ---
+comments: true
+id: home
+layout: page
+dg-home: true
+dg-publish: true
+permalink: /
 date created: 2023-01-08
 date modified: 2023-01-08
 tags: [base]
