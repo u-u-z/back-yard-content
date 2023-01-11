@@ -2,7 +2,7 @@
 date created: 2023-01-08
 date modified: 2023-01-08
 tags: [linux,os,cs]
-title: "📖 HOW LINUX WORKS"
+title: 📖 HOW LINUX WORKS
 ---
 >✒ By Satoru Takeuchi ([Github](https://github.com/satoru-takeuchi), [Twitter](https://twitter.com/satoru_takeuchi), [Intro](https://cybozu.co.jp/recruit/staff/sat.html))
 

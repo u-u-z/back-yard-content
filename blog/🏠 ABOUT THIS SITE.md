@@ -2,7 +2,7 @@
 date created: 2023-01-08
 date modified: 2023-01-08
 tags: [base]
-title: "ABOUT THIS SITE"
+title: 🏠 ABOUT THIS SITE
 ---
 
 ## WHATS HAPPEND BEFORE ...
