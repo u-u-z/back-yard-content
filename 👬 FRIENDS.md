@@ -8,9 +8,9 @@ title: My friends.
 
 ## 🌟 COOL GUYS
 - [**🥼 XYenon**](https://blog.xyenon.bid)
-- [**🍋 LemonHX**](https://lemonhx.moe/) 
+- [**🍋 LemonHX**](https://lemonhx.moe/)
 - [**🍄 Nekotora 🐮**](https://flag.moe/)
-- [**🐱 XinNya**]()
+- [**🐱 XinNya**](https://xin.moe)
 - [**🧊 9bie**](https://9bie.org/)
 - [**👤 Fawdlstty**](https://www.fawdlstty.com/)
 - [**🦟 Archeb**](https://mozz.ie)
