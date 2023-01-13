@@ -12,9 +12,10 @@ title: Remi IO
 ---
 
 ## WHAT'S THIS
-- 🌻 Remi's data back yard, collections for everything usefully.
-- 📒 Remi's new blog, record something I research.
-- 📖 Remi's knowledge base, share for everythings.
+- 🌻 Remi's **back yard**, **collections**, **blogs**, **knowledge** base for everything usefully.
+- 📒 Record something I research. (markdown by: Obsidian)
+
+- 🏠 [MAIN SITE](https://www.linux.dog) - ⬅️ go back to www.linux.dog or www.remi.fun
 
 ## CATALOGS
 -  [[👬 FRIENDS]] - my cool guys. my second self.
