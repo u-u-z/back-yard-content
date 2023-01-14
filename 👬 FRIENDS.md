@@ -21,6 +21,7 @@ title: My friends.
 - [**👤 Steven(hly0928)**](http://hly0928.com)
 - [**🐰 DGideas**](https://dgideas.net)
 - [**✈️ Ho 229**](https://ho229.lind0.space)
+- [**🍊 JuziYou**](https://lovemen.cc)
 
 ## 💨 NULL or NO LINK ...
 - ~~zomw.cn~~ 
