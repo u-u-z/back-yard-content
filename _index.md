@@ -11,14 +11,13 @@ tags: [base]
 title: Remi IO
 ---
 
-## WHAT'S THIS
-- 🌻 Remi's **back yard**, **collections**, **blogs**, **knowledge** base for everything usefully.
+## 🪧 WHAT'S THIS
+> 🌻 Remi's **back yard**, **collections**, **blogs**, **knowledge** base for everything usefully.
 - 📒 Record something I research. (markdown by: Obsidian)
-
 - 🏠 [MAIN SITE](https://www.linux.dog) - ⬅️ go back to www.linux.dog or www.remi.fun
 
-## CATALOGS
--  [[👬 FRIENDS]] - my cool guys. my second self.
+## 📖 CATALOGS
+- [[👬 FRIENDS]] - my cool guys. my second self.
 - [[📒 BLOGS]] - my blogs, articles about tech.
 ---
 > 🏠 If u r interested in how this site is built ,plz see [[🏠 ABOUT THIS SITE]]

@@ -20,6 +20,7 @@ title: My friends.
 - [🐱 **Billchenchina**](https://billchen.bid)
 - [**👤 Steven(hly0928)**](http://hly0928.com)
 - [**🐰 DGideas**](https://dgideas.net)
+- [**✈️ Ho 229**](https://ho229.lind0.space)
 
 ## 💨 NULL or NO LINK ...
 - ~~zomw.cn~~ 
