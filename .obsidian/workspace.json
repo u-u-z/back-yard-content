@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👬 FRIENDS.md",
+                "file": "blog/🏠 ABOUT THIS SITE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👬 FRIENDS.md",
+                "file": "blog/🏠 ABOUT THIS SITE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👬 FRIENDS.md",
+                "file": "blog/🏠 ABOUT THIS SITE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👬 FRIENDS.md"
+                "file": "blog/🏠 ABOUT THIS SITE.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "b9c2472fef38600d",
   "lastOpenFiles": [
-    "_index.md",
-    "👬 FRIENDS.md",
     "blog/📖 How Linux Works.md",
-    "daily/2023-01-08.md",
+    "blog/💧 Elixir-lang pieces of information.md",
     "blog/📒 BLOGS.md",
+    "daily/2023-01-08.md",
+    "2023-01-18.md",
     "blog/🏠 ABOUT THIS SITE.md",
+    "👬 FRIENDS.md",
+    "_index.md",
     "sticker.webm.md",
-    "blog/未命名.md",
-    "a.md",
-    "daily.md"
+    "blog/未命名.md"
   ]
 }
