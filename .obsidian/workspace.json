@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/🏠 ABOUT THIS SITE.md",
+                "file": "👬 FRIENDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,6 +43,14 @@
             }
           },
           {
+            "id": "efd6b0bb8ee06c57",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "82e40c8edc1e7270",
             "type": "leaf",
             "state": {
@@ -55,14 +63,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "efd6b0bb8ee06c57",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/🏠 ABOUT THIS SITE.md",
+                "file": "👬 FRIENDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/🏠 ABOUT THIS SITE.md",
+                "file": "👬 FRIENDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/🏠 ABOUT THIS SITE.md"
+                "file": "👬 FRIENDS.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "b9c2472fef38600d",
   "lastOpenFiles": [
-    "blog/📖 How Linux Works.md",
     "blog/💧 Elixir-lang pieces of information.md",
+    "blog/🏠 ABOUT THIS SITE.md",
+    "blog/📖 How Linux Works.md",
     "blog/📒 BLOGS.md",
     "daily/2023-01-08.md",
     "2023-01-18.md",
-    "blog/🏠 ABOUT THIS SITE.md",
     "👬 FRIENDS.md",
     "_index.md",
     "sticker.webm.md",
