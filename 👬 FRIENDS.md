@@ -22,7 +22,7 @@ title: My friends.
 - [**🐰 DGideas**](https://dgideas.net)
 - [**✈️ Ho 229**](https://ho229.lind0.space)
 - [**🍊 JuziYou**](https://lovemen.cc)
-- [🐱 LemonNeko 🍋](https://blog.lemonneko.moe)
+- [**🐱 LemonNeko 🍋**](https://blog.lemonneko.moe)
 
 ## 💨 NULL or NO LINK ...
 - ~~zomw.cn~~ 
