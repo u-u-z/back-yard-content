@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/📒 BLOGS.md",
-                "mode": "source",
+                "file": "backup/🌈 GRADIENT MAP.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/📒 BLOGS.md",
+                "file": "backup/🌈 GRADIENT MAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/📒 BLOGS.md",
+                "file": "backup/🌈 GRADIENT MAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/📒 BLOGS.md"
+                "file": "backup/🌈 GRADIENT MAP.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "b9c2472fef38600d",
   "lastOpenFiles": [
-    "blog/📖 How Linux Works.md",
+    "backup/🎡 DEPLOY UNITY WEBGL ASSETS ON NGINX.md",
+    "backup/🌈 GRADIENT MAP.md",
+    "blog/📒 BLOGS.md",
     "blog/🏠 ABOUT THIS SITE.md",
     "_index.md",
-    "👬 FRIENDS.md",
     "blog/💧 Elixir-lang pieces of information.md",
-    "blog/📒 BLOGS.md",
+    "👬 FRIENDS.md",
+    "blog/📖 How Linux Works.md",
     "daily/2023-01-08.md",
-    "2023-01-18.md",
-    "sticker.webm.md",
-    "blog/未命名.md"
+    "2023-01-18.md"
   ]
 }
