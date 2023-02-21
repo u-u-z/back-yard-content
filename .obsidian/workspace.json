@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backup/🌈 GRADIENT MAP.md",
+                "file": "👬 FRIENDS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backup/🌈 GRADIENT MAP.md",
+                "file": "👬 FRIENDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backup/🌈 GRADIENT MAP.md",
+                "file": "👬 FRIENDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backup/🌈 GRADIENT MAP.md"
+                "file": "👬 FRIENDS.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "b9c2472fef38600d",
   "lastOpenFiles": [
+    "blog/📒 BLOGS.md",
     "backup/🎡 DEPLOY UNITY WEBGL ASSETS ON NGINX.md",
     "backup/🌈 GRADIENT MAP.md",
-    "blog/📒 BLOGS.md",
     "blog/🏠 ABOUT THIS SITE.md",
     "_index.md",
     "blog/💧 Elixir-lang pieces of information.md",

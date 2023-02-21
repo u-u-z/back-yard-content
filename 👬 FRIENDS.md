@@ -23,6 +23,7 @@ title: My friends.
 - [**✈️ Ho 229**](https://ho229.lind0.space)
 - [**🍊 JuziYou**](https://lovemen.cc)
 - [**🐱 LemonNeko 🍋**](https://blog.lemonneko.moe)
+- [**🐰 Suemor**](https://suemor.com)
 
 ## 💨 NULL or NO LINK ...
 - ~~zomw.cn~~ 
