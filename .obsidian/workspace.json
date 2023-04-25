@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9c2472fef38600d",
+            "id": "3dab4ecd6acc2462",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👬 FRIENDS.md",
-                "mode": "preview",
+                "file": "blog/🔧 MY TOOL COLLECTIONS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd3afecb12a28b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/🔧 MY TOOL COLLECTIONS.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👬 FRIENDS.md",
+                "file": "blog/🔧 MY TOOL COLLECTIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👬 FRIENDS.md",
+                "file": "blog/🔧 MY TOOL COLLECTIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👬 FRIENDS.md"
+                "file": "blog/🔧 MY TOOL COLLECTIONS.md"
               }
             }
           }
@@ -138,24 +151,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b9c2472fef38600d",
+  "active": "686c6304699692cb",
   "lastOpenFiles": [
     "blog/📒 BLOGS.md",
-    "backup/🎡 DEPLOY UNITY WEBGL ASSETS ON NGINX.md",
-    "backup/🌈 GRADIENT MAP.md",
+    "blog/📖 How Linux Works.md",
+    "blog/🔧 MY TOOL COLLECTIONS.md",
+    "blog/💧 Elixir-lang pieces of information.md",
     "blog/🏠 ABOUT THIS SITE.md",
     "_index.md",
-    "blog/💧 Elixir-lang pieces of information.md",
     "👬 FRIENDS.md",
-    "blog/📖 How Linux Works.md",
+    "blog/未命名.md",
+    "backup/🎡 DEPLOY UNITY WEBGL ASSETS ON NGINX.md",
+    "backup/🌈 GRADIENT MAP.md",
     "daily/2023-01-08.md",
     "2023-01-18.md"
   ]
