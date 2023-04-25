@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/🔧 LLVM IR TO WASM NOTES.md",
+                "file": "blog/🟰 ABOUT ARBITRARY-PRECISION  (GMP).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/🔧 LLVM IR TO WASM NOTES.md",
+                "file": "blog/🟰 ABOUT ARBITRARY-PRECISION  (GMP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/🔧 LLVM IR TO WASM NOTES.md",
+                "file": "blog/🟰 ABOUT ARBITRARY-PRECISION  (GMP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/🔧 LLVM IR TO WASM NOTES.md"
+                "file": "blog/🟰 ABOUT ARBITRARY-PRECISION  (GMP).md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "bd3afecb12a28b93",
   "lastOpenFiles": [
-    "blog/🔧 MY TOOL COLLECTIONS.md",
     "blog/🔧 LLVM IR TO WASM NOTES.md",
+    "blog/🔧 MY TOOL COLLECTIONS.md",
+    "blog/🟰 ABOUT ARBITRARY-PRECISION  (GMP).md",
     "blog/📒 BLOGS.md",
     "blog/💧 Elixir-lang pieces of information.md",
     "👬 FRIENDS.md",

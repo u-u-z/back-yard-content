@@ -1,7 +1,7 @@
 ---
 date created: 2023-04-25
 date modified: 2023-04-25
-tags: [linux,os,tools]
+tags: [llvm,wasm]
 title: 🔧 LLVM IR TO WASM NOTES
 ---
 ## Description
