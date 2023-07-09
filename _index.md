@@ -16,9 +16,10 @@ title: Remi IO
 - 📒 Record something I research. (markdown by: Obsidian)
 - 🏠 [MAIN SITE](https://www.linux.dog) - ⬅️ go back to www.linux.dog or www.remi.fun
 
-## 📖 CATALOGS
+## 📖 SOME CONTENTS
 - [[👬 FRIENDS]] - my cool guys. my second self.
 - [[📒 BLOGS]] - my blogs, articles about tech.
+- [[🌻 DAILY]] - memories ... 
 ---
 > 🏠 If u r interested in how this site is built ,plz see [[🏠 ABOUT THIS SITE]]
 

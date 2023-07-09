@@ -2,7 +2,7 @@
 date created: 2023-01-08
 date modified: 2023-01-08
 tags: [base,friends]
-title: My friends.
+title: 👬 FRIENDS
 ---
 >  📊 In no particular order
 
