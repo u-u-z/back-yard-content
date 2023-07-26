@@ -24,6 +24,7 @@ title: 👬 FRIENDS
 - [**🍊 JuziYou**](https://lovemen.cc)
 - [**🐱 LemonNeko 🍋**](https://blog.lemonneko.moe)
 - [**🐰 Suemor**](https://suemor.com)
+- [**😺 Hiyase**](https://hiyase.github.io/)
 
 ## 💨 NULL or NO LINK ...
 - ~~zomw.cn~~ 
