@@ -25,6 +25,7 @@ title: 👬 FRIENDS
 - [**🐱 LemonNeko 🍋**](https://blog.lemonneko.moe)
 - [**🐰 Suemor**](https://suemor.com)
 - [**😺 Hiyase**](https://hiyase.github.io/)
+- [**🍓 三咲雅 · Misaki Masa**](https://sxyz.blog/)
 
 ## 💨 NULL or NO LINK ...
 - ~~zomw.cn~~ 

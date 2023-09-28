@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a7244e3d694b5c2a",
+        "id": "e329411296df1f50",
         "type": "tabs",
         "children": [
           {
-            "id": "3dab4ecd6acc2462",
+            "id": "514d4ca9f55bbe6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/🔧 MY TOOL COLLECTIONS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "264f982b72ca6765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae109a0cca316235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "👬 FRIENDS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48c4427f845dd3a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd3afecb12a28b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 286.5
   },
   "right": {
     "id": "f1371012907d566c",
@@ -142,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👬 FRIENDS.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👬 FRIENDS.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👬 FRIENDS.md"
+                "file": "_index.md"
               }
             }
           }
@@ -203,27 +150,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ae109a0cca316235",
+  "active": "686c6304699692cb",
   "lastOpenFiles": [
+    "blog/🔧 LLVM IR TO WASM NOTES.md",
+    "blog/🔧 MY TOOL COLLECTIONS.md",
     "daily/07-09-2023 BACKUP BLOCKCHAIN.md",
     "daily/07-09-2023 SOME PROGRESS REPORT.md",
     "public/images/07-09-2023-BACKUP-BLOCKCHAIN.png",
+    "blog/📖 How Linux Works.md",
+    "blog/📒 BLOGS.md",
+    "blog/💧 Elixir-lang pieces of information.md",
+    "blog/🏠 ABOUT THIS SITE.md",
+    "backup/🎡 DEPLOY UNITY WEBGL ASSETS ON NGINX.md",
+    "backup/🌈 GRADIENT MAP.md",
+    "👬 FRIENDS.md",
     "_index.md",
     "🌻 DAILY.md",
-    "👬 FRIENDS.md",
     "public/images",
     "public/未命名.md",
     "public",
-    "blog/📒 BLOGS.md",
     "blog/🔢 ABOUT ARBITRARY-PRECISION  (GMP).md",
-    "blog/🔧 LLVM IR TO WASM NOTES.md",
-    "blog/🔧 MY TOOL COLLECTIONS.md",
-    "blog/💧 Elixir-lang pieces of information.md",
-    "blog/📖 How Linux Works.md",
-    "blog/🏠 ABOUT THIS SITE.md",
     "blog/未命名.md",
-    "backup/🎡 DEPLOY UNITY WEBGL ASSETS ON NGINX.md",
-    "backup/🌈 GRADIENT MAP.md",
     "daily/2023-01-08.md",
     "2023-01-18.md"
   ]
